@@ -43,7 +43,7 @@ export const projects: Project[] = [
     category: "living-room",
     image: "/images/project-living.png",
     description:
-      "A contemporary living space designed to seamlessly blend organic materials with modern architecture. Warm tones and natural textures create an inviting atmosphere that balances sophistication with comfort.",
+      "A contemporary luxury residence in Bali designed to blend organic materials with modern architecture. Warm tones and natural textures create an inviting atmosphere.",
     year: "2024",
     area: "420 sqm",
     location: "Bali, Indonesia",
@@ -195,7 +195,7 @@ export const services: Service[] = [
     number: "01",
     title: "Interior Design",
     description:
-      "We create harmonious living environments that reflect your personality and lifestyle. From concept to completion, our team guides you through every decision — spatial planning, material selection, and bespoke furniture curation.",
+      "We create harmonious luxury living environments in Bali that reflect your unique personality. From concept to completion, our Bali-based team guides you through spatial planning and material selection.",
     features: ["Space Planning", "Mood Boards", "Material Selection", "Furniture Curation"],
   },
   {

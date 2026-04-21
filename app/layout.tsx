@@ -25,7 +25,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL("https://elemental-studio.id"),
   title: {
-    default: "Elemental Studio | Premium Interior Design Bali",
+    default: "Elemental Studio | Best Studio Interior Bali & Luxury Design",
     template: "%s | Elemental Studio"
   },
   description:
@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     "interior design Bali",
     "luxury interior designer Indonesia",
     "interior studio Bali",
+    "studio interior bali",
+    "kontraktor interior bali",
+    "desain villa bali",
     "modern home design",
     "premium furniture Bali",
     "elemental studio architecture",
@@ -51,7 +54,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Elemental Studio | Premium Interior Design Bali",
+    title: "Elemental Studio | Best Studio Interior Bali & Luxury Design",
     description:
       "Transforming spaces into extraordinary experiences through thoughtful luxury interior design.",
     url: "https://elemental-studio.id",

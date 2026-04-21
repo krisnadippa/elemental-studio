@@ -39,7 +39,7 @@ export default function Hero() {
 
             {/* Label */}
             <p className="text-[#c4a882] text-[0.65rem] tracking-[0.45em] uppercase mb-6 animate-fade-up">
-              Premium Interior Studio &nbsp;·&nbsp; Est. 2021
+              Premium Interior Design Studio Bali &nbsp;·&nbsp; Est. 2021
             </p>
 
             {/* Headline */}

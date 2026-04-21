@@ -16,17 +16,15 @@ export default function About() {
               className="font-serif text-[2rem] md:text-[2.6rem] lg:text-[3rem]
                          text-[#f5f0e8] leading-tight mb-7"
             >
-              We are the best interior design studio in London
+              We are the best studio interior design in Bali
             </h2>
             <p className="text-[#a89070] leading-relaxed mb-5 font-sans font-light text-[0.95rem]">
-              With over a decade of experience transforming residential and commercial spaces,
-              Elemental Studio has established itself as a leader in luxury interior design.
+              As a leading interior contractor and design studio in Bali, we specialize in transforming residential and commercial spaces into luxury environments. 
               Our approach combines artistic vision with rigorous functional thinking.
             </p>
             <p className="text-[#a89070] leading-relaxed mb-10 font-sans font-light text-[0.95rem]">
-              Every project begins with understanding your lifestyle and aspirations.
-              We craft spaces that not only look extraordinary but feel intuitively yours —
-              spaces that tell a story.
+              Every project in Bali begins with understanding your unique lifestyle and aspirations.
+              We craft spaces that not only look extraordinary but feel intuitively yours.
             </p>
 
             {/* Divider accent */}
